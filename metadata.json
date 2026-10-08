@@ -1,0 +1,6 @@
+{
+  "name": "RYDE",
+  "description": "Next-generation ride-booking platform with customer hailing, driver partner, dynamic pricing, and comprehensive admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
